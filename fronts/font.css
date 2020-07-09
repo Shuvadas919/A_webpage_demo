@@ -1,0 +1,7 @@
+@font-face {
+  font-family: "qlassik";
+  src: url("../fonts/Qlassik.ttf") format("truetype"),
+  url("../fonts/Qlassik.eot") format("eot"),
+  url("../fonts/Qlassik.svg") format("svg"),
+  url("../fonts/Qlassik.woff") format("woff");
+}
